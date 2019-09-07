@@ -1,0 +1,62 @@
+h1{
+    padding:15px;
+}
+
+h2{
+    padding:15px;
+}
+
+.bodyContainer{
+    width:80vw;
+    margin:auto;
+}
+
+.searchBar{
+    width:100%;
+    margin:auto;
+}
+
+.searchBtn{
+    padding:10px;
+    
+}
+
+.showcase{
+    background: url(./img/showcase1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color:white;
+}
+
+.showcaseContainer{
+    background-color: rgba(87, 87, 87, 0.4);
+    width:80%;
+    margin:auto;
+}
+
+.resultsInfo p{
+    padding:5px;
+}
+
+.resultsCard{
+    margin:10px;
+    width: 100%;
+}
+
+.resImg{
+    height: 180px;
+}
+
+.viewImg{
+    height:300px;
+}
+
+.viewInfo{
+    text-align: left;
+    align-items: left;
+}
+
+.homeId{
+    display:none;
+}
